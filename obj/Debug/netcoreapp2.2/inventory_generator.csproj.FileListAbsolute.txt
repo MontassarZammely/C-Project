@@ -1,0 +1,13 @@
+/Users/montassarbenzammel/Downloads/Inventory-master/bin/Debug/netcoreapp2.2/inventory_generator.deps.json
+/Users/montassarbenzammel/Downloads/Inventory-master/bin/Debug/netcoreapp2.2/inventory_generator.runtimeconfig.json
+/Users/montassarbenzammel/Downloads/Inventory-master/bin/Debug/netcoreapp2.2/inventory_generator.runtimeconfig.dev.json
+/Users/montassarbenzammel/Downloads/Inventory-master/bin/Debug/netcoreapp2.2/inventory_generator.dll
+/Users/montassarbenzammel/Downloads/Inventory-master/bin/Debug/netcoreapp2.2/inventory_generator.pdb
+/Users/montassarbenzammel/Downloads/Inventory-master/obj/Debug/netcoreapp2.2/inventory_generator.csproj.AssemblyReference.cache
+/Users/montassarbenzammel/Downloads/Inventory-master/obj/Debug/netcoreapp2.2/inventory_generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/montassarbenzammel/Downloads/Inventory-master/obj/Debug/netcoreapp2.2/inventory_generator.AssemblyInfoInputs.cache
+/Users/montassarbenzammel/Downloads/Inventory-master/obj/Debug/netcoreapp2.2/inventory_generator.AssemblyInfo.cs
+/Users/montassarbenzammel/Downloads/Inventory-master/obj/Debug/netcoreapp2.2/inventory_generator.csproj.CoreCompileInputs.cache
+/Users/montassarbenzammel/Downloads/Inventory-master/obj/Debug/netcoreapp2.2/inventory_generator.dll
+/Users/montassarbenzammel/Downloads/Inventory-master/obj/Debug/netcoreapp2.2/inventory_generator.pdb
+/Users/montassarbenzammel/Downloads/Inventory-master/obj/Debug/netcoreapp2.2/inventory_generator.genruntimeconfig.cache
